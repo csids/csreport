@@ -1,10 +1,10 @@
-# csdb <a href="https://www.csids.no/csdb/"><img src="man/figures/logo.png" align="right" width="120" /></a>
+# csreport <a href="https://www.csids.no/csreport/"><img src="man/figures/logo.png" align="right" width="120" /></a>
 
 ## Overview 
 
-[csdb](https://www.csids.no/csdb/) provides an abstracted system for easily working with databases with large datasets.
+[csreport](https://www.csids.no/csreport/) provides an abstracted system for easily working with databases with large datasets.
 
-Read the introduction vignette [here](http://www.csids.no/csdb/articles/csdb.html) or run `help(package="csdb")`.
+Read the introduction vignette [here](http://www.csids.no/csreport/articles/csreport.html) or run `help(package="csreport")`.
 
 ## csverse
 
@@ -30,5 +30,5 @@ Save the file and restart R.
 You can now install [csverse](https://www.csids.no/packages.html) packages from our [drat repository](https://www.csids.no/drat/).
 
 ```
-install.packages("csdb")
+install.packages("csreport")
 ```

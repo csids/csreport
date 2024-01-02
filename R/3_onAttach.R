@@ -2,16 +2,16 @@
 #' @importFrom magrittr %>%
 .onAttach <- function(libname, pkgname) {
     version <- tryCatch(
-      utils::packageDescription("csdb", fields = "Version"),
+      utils::packageDescription("csreport", fields = "Version"),
       warning = function(w){
         1
       }
     )
 
   packageStartupMessage(paste0(
-    "csdb ",
+    "csreport ",
     version,
     "\n",
-    "https://www.csids.no/csdb/"
+    "https://www.csids.no/csreport/"
   ))
 }

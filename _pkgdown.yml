@@ -1,4 +1,4 @@
-url: https://www.csids.no/csdb/
+url: https://www.csids.no/csreport/
 
 template:
   package: csidstemplatepkgdown

@@ -1,1 +1,1 @@
-knitr::knit("vignettes/csdb.Rmd.orig", "vignettes/csdb.Rmd")
+knitr::knit("vignettes/csreport.Rmd.orig", "vignettes/csreport.Rmd")

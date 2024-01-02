@@ -1,4 +1,4 @@
-Package: csdb
+Package: csreport
 Title: An abstracted system for easily working with databases with large datasets
 Version: 2020.5.25
 Authors@R: c(
@@ -8,8 +8,8 @@ Authors@R: c(
 Description: An abstracted system for easily working with databases with large datasets.
 Depends: R (>= 3.3.0)
 License: MIT + file LICENSE
-URL: https://www.csids.no/csdb/, https://github.com/csids/csdb
-BugReports: https://github.com/csids/csdb/issues
+URL: https://www.csids.no/csreport/, https://github.com/csids/csreport
+BugReports: https://github.com/csids/csreport/issues
 Encoding: UTF-8
 LazyData: true
 Imports: csutil,
